@@ -417,6 +417,14 @@ For questions or feedback, please open an issue on GitHub.
 
 ---
 
-**Built with ❤️ for FX traders and quantitative finance professionals**
+---
 
-*This tool demonstrates genuine understanding of FX derivatives conventions and trading desk practices.*
+## 👤 **Credits**
+
+**Developed by: ELADMI-jr**
+
+This project is entirely developed and maintained by ELADMI-jr.
+
+---
+
+**Built for FX traders and quantitative finance professionals**
